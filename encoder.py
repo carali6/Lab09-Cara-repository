@@ -1,4 +1,4 @@
-# This is Xinye (Cara) Li's main function and encoder part
+# This is Xinye (Cara) Li's main function and encoder part.
 
 def menu():
     print("Menu\n"
